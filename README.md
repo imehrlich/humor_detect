@@ -8,4 +8,4 @@ Original source for News Headline data found at https://www.kaggle.com/therohk/m
 
 Original source for one-liner data found at https://github.com/CrowdTruth/Short-Text-Corpus-For-Humor-Detection
 
-*COG403 - Context in Humor Detection Notebook.ipynb* is an executable Jupyter Notebook containing all models and results for the project
+*Contextual_Humor_Detection.ipynb* is an executable Jupyter Notebook containing all models and results for the project
