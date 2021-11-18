@@ -1,6 +1,8 @@
 # humor_detect
 
-Model for detecting humor using multisensory input
+Most humor detection models only focus on language and the text itself, but humor is often contextual and dependent on visual cues. This repository contains analysis and a report on a model for detecting humor using multisensory input - built for a world of comic strips and memes.
+
+#
 
 Original source for New Yorker Caption Contest data found at https://github.com/nextml/caption-contest-data?fbclid=IwAR2B3pfC6NX5iBDZ0p91KX5UcSjLTp5Iij02PDBYQhbsj5QYnK_4vpYbtkg
 
